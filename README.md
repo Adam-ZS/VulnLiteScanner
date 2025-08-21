@@ -56,3 +56,5 @@ VulnLite-Release/
 ├─ LICENSE
 └─ README.md
 ```
+**Credits:** Inspired by [swit-scanner](https://github.com/RedSecurity/swit-scanner).  
+**Author:** [Adam-ZS](https://github.com/Adam-ZS) — built for my Summer 2025 cybersecurity internship.
