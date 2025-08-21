@@ -47,25 +47,6 @@ python3 vulnlite/VulnLiteScanner.py
 - Scan only with **explicit written authorization**.
 - Sanitize PII and handle logs securely.
 
-## Folder Structure
-```
-VulnLite-Release/
-├─ vulnlite/
-│  └─ VulnLiteScanner.py
-├─ docs/
-│  ├─ RUNBOOK.md
-│  ├─ SOP.md
-│  ├─ SECURITY.md
-│  └─ ROE_TEMPLATE.md
-├─ examples/
-│  ├─ commands.md
-│  └─ simulate_quick.txt
-├─ assets/
-│  └─ screenshot_gui_placeholder.png
-├─ .gitignore
-├─ LICENSE
-└─ README.md
-```
 **Credits:** Inspired by [swit-scanner](https://github.com/RedSecurity/swit-scanner).  
 **Author:** [Adam-ZS](https://github.com/Adam-ZS) — built for my Summer 2025 cybersecurity internship.
 
