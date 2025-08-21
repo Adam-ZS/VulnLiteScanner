@@ -1,0 +1,3 @@
+Target: example.com
+Mode: Simulate
+Export: PDF & TXT
