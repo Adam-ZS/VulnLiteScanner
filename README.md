@@ -1,4 +1,14 @@
-# VulnLite Scanner
+<p align="center">
+  <img src="assets/vulnlite-banner.svg" alt="VulnLite Scanner banner" width="820">
+</p>
+
+<p align="center">
+  <a href="https://github.com/adam-zs/VulnLiteScanner"><img alt="Author" src="https://img.shields.io/badge/author-adam--zs-111827"></a>
+  <img alt="Python" src="https://img.shields.io/badge/python-3.9%2B-111827">
+  <img alt="GUI" src="https://img.shields.io/badge/GUI-Tkinter-111827">
+  <a href="https://github.com/RedSecurity/swit-scanner"><img alt="Inspired by swit-scanner" src="https://img.shields.io/badge/inspired_by-swit--scanner-10b981"></a>
+</p>
+
 
 A single-file, GUI-based recon & report generator inspired by swit-scanner. **No external Python dependencies**: runs with stock Python 3.8+ (Tkinter included). Exports a clean **TXT** and a stylish **PDF** (with margins, padding, and big section bars).
 
@@ -58,3 +68,5 @@ VulnLite-Release/
 ```
 **Credits:** Inspired by [swit-scanner](https://github.com/RedSecurity/swit-scanner).  
 **Author:** [Adam-ZS](https://github.com/Adam-ZS) — built for my Summer 2025 cybersecurity internship.
+
+
