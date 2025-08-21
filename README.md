@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/adam-zs/VulnLiteScanner"><img alt="Author" src="https://img.shields.io/badge/author-adam--zs-111827"></a>
+  <a href="https://github.com/Adam-ZS/VulnLiteScanner"><img alt="Author" src="https://img.shields.io/badge/author-Adam--ZS-111827"></a>
   <img alt="Python" src="https://img.shields.io/badge/python-3.9%2B-111827">
   <img alt="GUI" src="https://img.shields.io/badge/GUI-Tkinter-111827">
   <a href="https://github.com/RedSecurity/swit-scanner"><img alt="Inspired by swit-scanner" src="https://img.shields.io/badge/inspired_by-swit--scanner-10b981"></a>
